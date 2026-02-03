@@ -43,7 +43,7 @@ A complete Monopoly game with a graphical user interface built in Python using T
 
 ## Installation
 
-1. Clone or download the `monopoly` directory
+1. Clone or download the `Monopoly-in-Python` directory
 2. No additional dependencies required!
 
 ## Running the Game
@@ -62,7 +62,7 @@ python3 monopoly.py
 ## File Structure
 
 ```
-monopoly-gui/
+Monopoly-in-Python/
 ├── monopoly.py      # Main launcher
 ├── game.py          # Main game window and logic
 ├── config.py        # Game constants and configuration
