@@ -43,7 +43,7 @@ A complete Monopoly game with a graphical user interface built in Python using T
 
 ## Installation
 
-1. Clone or download the `monopoly-gui` directory
+1. Clone or download the `monopoly` directory
 2. No additional dependencies required!
 
 ## Running the Game
