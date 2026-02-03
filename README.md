@@ -49,7 +49,7 @@ A complete Monopoly game with a graphical user interface built in Python using T
 ## Running the Game
 
 ```bash
-cd monopoly-gui
+cd Monopoly-in-Python
 python monopoly.py
 ```
 
